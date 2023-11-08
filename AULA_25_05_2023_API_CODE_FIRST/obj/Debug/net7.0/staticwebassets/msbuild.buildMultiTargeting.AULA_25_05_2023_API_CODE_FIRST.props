@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AULA_25_05_2023_API_CODE_FIRST.props" />
+</Project>

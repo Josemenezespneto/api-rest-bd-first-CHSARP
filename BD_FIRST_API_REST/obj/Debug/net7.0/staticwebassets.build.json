@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bvEjAqBMvd6I+WAtLYSeJ5U9uCNQtpzbsggLcXehBTU=",
+  "Source": "BD_FIRST_API_REST",
+  "BasePath": "_content/BD_FIRST_API_REST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

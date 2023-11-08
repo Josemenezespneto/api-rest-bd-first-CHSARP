@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AULA_25_05_2023_API_BD_FIRST.props" />
+</Project>

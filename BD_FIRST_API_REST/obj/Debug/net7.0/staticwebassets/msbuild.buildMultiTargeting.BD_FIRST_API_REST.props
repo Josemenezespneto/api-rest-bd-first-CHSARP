@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BD_FIRST_API_REST.props" />
+</Project>
